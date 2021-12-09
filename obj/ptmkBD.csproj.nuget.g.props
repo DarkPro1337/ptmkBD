@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\darkpro1337\.nuget\packages\;D:\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\darkpro1337\.nuget\packages\" />
+    <SourceRoot Include="D:\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\About this folder.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\About this folder.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\About this folder.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\About this folder.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Denmark\DK.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Denmark\DK.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Denmark\DK.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Denmark\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Denmark\DK.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Denmark\Gader i København.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Denmark\Gader i København.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Denmark\Gader i København.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Denmark\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Denmark\Gader i København.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Denmark\denmark.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Denmark\denmark.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Denmark\denmark.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Denmark\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Denmark\denmark.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Finland\FI.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Finland\FI.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Finland\FI.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Finland\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Finland\FI.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Finland\Streets in Finland.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Finland\Streets in Finland.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Finland\Streets in Finland.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Finland\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Finland\Streets in Finland.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Finland\finland.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Finland\finland.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Finland\finland.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Finland\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Finland\finland.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Generic\passwords.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Generic\passwords.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Generic\passwords.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Generic\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Generic\passwords.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Iceland\Streets in Iceland.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Iceland\Streets in Iceland.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Iceland\Streets in Iceland.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Iceland\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Iceland\Streets in Iceland.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Iceland\iceland.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Iceland\iceland.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Iceland\iceland.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Iceland\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Iceland\iceland.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Iceland\postnumer.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Iceland\postnumer.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Iceland\postnumer.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Iceland\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Iceland\postnumer.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\Addresses in NL.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\Addresses in NL.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Netherlands\Addresses in NL.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Netherlands\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Netherlands\Addresses in NL.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\License for last names.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\License for last names.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Netherlands\License for last names.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Netherlands\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Netherlands\License for last names.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\NL.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\NL.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Netherlands\NL.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Netherlands\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Netherlands\NL.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\netherlands.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Netherlands\netherlands.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Netherlands\netherlands.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Netherlands\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Netherlands\netherlands.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Norway\Gater i Oslo.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Norway\Gater i Oslo.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Norway\Gater i Oslo.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Norway\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Norway\Gater i Oslo.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Norway\Postnummerregister-ansi.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Norway\Postnummerregister-ansi.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Norway\Postnummerregister-ansi.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Norway\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Norway\Postnummerregister-ansi.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Norway\norway.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Norway\norway.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Norway\norway.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Norway\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Norway\norway.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Readme.md" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Readme.md')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>RandomPersonLib\Readme.md</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Source information.md" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Source information.md')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>RandomPersonLib\Source information.md</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Sweden\Gator i Stockholm.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Sweden\Gator i Stockholm.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Sweden\Gator i Stockholm.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Sweden\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Sweden\Gator i Stockholm.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Sweden\SE.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Sweden\SE.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Sweden\SE.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Sweden\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Sweden\SE.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Sweden\sweden.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\Sweden\sweden.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\Sweden\sweden.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\Sweden\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\Sweden\sweden.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\USA\Streets in Sullivan.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\USA\Streets in Sullivan.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\USA\Streets in Sullivan.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\USA\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\USA\Streets in Sullivan.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\USA\US.txt" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\USA\US.txt')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\USA\US.txt</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\USA\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\USA\US.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\USA\usa.json" Condition="Exists('$(NuGetPackageRoot)randompersonlib\1.15.0\contentFiles\any\netstandard2.0\RandomPersonLib\USA\usa.json')">
+      <NuGetPackageId>RandomPersonLib</NuGetPackageId>
+      <NuGetPackageVersion>1.15.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>RandomPersonLib\USA\usa.json</TargetPath>
+      <DestinationSubDirectory>RandomPersonLib\USA\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>RandomPersonLib\USA\usa.json</Link>
+    </Content>
+  </ItemGroup>
+</Project>
